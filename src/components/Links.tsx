@@ -15,7 +15,7 @@ export default function Links() {
         },
         {
             description: "WhatsApp",
-            url: "https://api.whatsapp.com/send?phone=557140204075?utm_source=Instagram&utm_medium=Linktree&utm_campaign=whattsapp"
+            url: "https://api.whatsapp.com/send?phone=557140204075"
         },
         {
             description: "Nossas Lojas",
