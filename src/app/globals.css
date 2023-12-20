@@ -2,18 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  background: rgb(1,104,136);
-  background: linear-gradient(313deg, rgba(1,104,136,1) 0%, rgba(5,191,221,1) 52%, rgba(0,113,152,1) 100%);  background-repeat: no-repeat;
-  background-repeat: no-repeat;
-  height: 100%;
-}
-
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   -webkit-font-smoothing: antialiased;
+  background: rgb(1,104,136);
+  background: linear-gradient(313deg, rgba(1,104,136,1) 0%, rgba(5,191,221,1) 52%, rgba(0,113,152,1) 100%);  background-repeat: no-repeat;
+  background-repeat: no-repeat;
   color: white;
+  min-height: 100vh;
 }
