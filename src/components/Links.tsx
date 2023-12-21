@@ -11,7 +11,7 @@ export default function Links() {
     const links: Links[] = [
         {
             description: "Acesse o nosso Site",
-            url: "https://www.login.com.br/?utm_source=Instagram&utm_medium=Linktree&utm_campaign=botao-home"
+            url: "https://www.login.com.br/?utm_source=Instagram&utm_medium=linkbio&utm_campaign=botao-home"
         },
         {
             description: "WhatsApp",
@@ -19,15 +19,15 @@ export default function Links() {
         },
         {
             description: "Nossas Lojas",
-            url: "https://www.login.com.br/nossas-lojas?utm_source=Instagram&utm_medium=Linktree&utm_campaign=lojas"
+            url: "https://www.login.com.br/nossas-lojas?utm_source=Instagram&utm_medium=linkbio&utm_campaign=lojas"
         },
         {
             description: "Trabalhe Conosco",
-            url: "https://www.login.com.br/trabalhe-conosco?utm_source=Instagram&utm_medium=Linktree&utm_campaign=trabalhe-conosco"
+            url: "https://www.login.com.br/trabalhe-conosco?utm_source=Instagram&utm_medium=linkbio&utm_campaign=trabalhe-conosco"
         },
         {
             description: "Assistências",
-            url: "https://www.login.com.br/assistencias?utm_source=Instagram&utm_medium=Linktree&utm_campaign=assistencias"
+            url: "https://www.login.com.br/assistencias?utm_source=Instagram&utm_medium=linkbio&utm_campaign=assistencias"
         }
     ]
 
